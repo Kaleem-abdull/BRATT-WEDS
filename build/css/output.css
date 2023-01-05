@@ -669,6 +669,10 @@ video {
   margin-right: 0px;
 }
 
+.box-border {
+  box-sizing: border-box;
+}
+
 .flex {
   display: flex;
 }
